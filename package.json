@@ -1,0 +1,9 @@
+{
+  "name": "unichain-v4-hook-liquidity-guard",
+  "version": "1.0.0",
+  "description": "Uniswap v4 dynamic hook boilerplate optimized for Unichain",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "@uniswap/v4-core": "git+https://github.com/Uniswap/v4-core.git"
+  }
+}
